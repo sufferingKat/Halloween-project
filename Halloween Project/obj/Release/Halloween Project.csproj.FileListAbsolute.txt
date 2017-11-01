@@ -1,0 +1,8 @@
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\bin\Release\Halloween Project.exe
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\bin\Release\Halloween Project.pdb
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\obj\Release\Halloween_Project.MainInterface.resources
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\obj\Release\Halloween_Project.Properties.Resources.resources
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\obj\Release\Halloween_Project.UserInputForm.resources
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\obj\Release\Halloween Project.csproj.GenerateResource.Cache
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\obj\Release\Halloween Project.exe
+P:\Ragnar\Visual C# Projects\Halloween Project\Halloween Project\obj\Release\Halloween Project.pdb
